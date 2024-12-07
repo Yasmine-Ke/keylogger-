@@ -63,7 +63,7 @@ pkill -f keylogger.py
 
 ---
 
-## 🛠️ **4. Éléments Techniques**
+##  **4. Éléments Techniques**
 
 1. **Fichier `keylogger.txt` :**  
    Toutes les frappes capturées sont enregistrées dans ce fichier.
@@ -76,10 +76,10 @@ pkill -f keylogger.py
 
 
 
-📌 **Fichier clé :**  
+ **Fichier clé :**  
 - `keyl.py`
 
-📌 **Commandes clés pour le lancement :**
+ **Commandes clés pour le lancement :**
 ```bash
 nohup python3 keylogger.py &
 ps aux | grep keylogger.py
